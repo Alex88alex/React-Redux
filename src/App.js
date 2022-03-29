@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Go Go Go
+          Git Git Git
         </a>
       </header>
     </div>
