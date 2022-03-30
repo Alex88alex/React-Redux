@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
         >
           Git Git Git
         </a>
-        <a href='https://github.com/Alex88alex/React-Redux'>Its breang</a>
+        <a href="https://github.com/Alex88alex/React-Redux">Its breang</a>
       </header>
     </div>
   );
