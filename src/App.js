@@ -19,7 +19,7 @@ function App() {
         </a>
         <a href='https://github.com/Alex88alex/React-Redux'>Its breang</a>
         <h1>Hello</h1>
-        <h1>Hello ok</h1>
+        <h1>Hello ok</h1> 
       </header>
     </div>
   );
